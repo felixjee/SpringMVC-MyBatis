@@ -1,6 +1,6 @@
  /* 2017-11-10 */
 -- 创建数据库
-CREATE DATABASE asl_ums_temp;
+CREATE DATABASE ums;
 
 -- 创建部门表
 CREATE TABLE al_department (
